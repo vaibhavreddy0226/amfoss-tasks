@@ -1,0 +1,13 @@
+from collections import Counter
+n = int(input())  
+list_a = list(map(int, input().split()))  
+m = int(input())  
+list_b = list(map(int, input().split()))  
+count_a = Counter(list_a)
+count_b = Counter(list_b)
+missing_numbers = []
+for num in count_b:
+    if count_b[num] > count_a[num]:
+        missing_numbers.append(num)
+missing_numbers.sort()
+print(" ".join(map(str, missing_numbers)))
