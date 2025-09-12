@@ -53,7 +53,7 @@ This avoided generating all strings explicitly (which would be inefficient).
 
 ---
 
-👉 The codes are available inside the [task-02](task-02) folder of this repository.  
+👉 The codes are available inside the task-02 folder of this repository.  
 
 You can check my HackerRank status — my username is `U4AID24027`.
 
@@ -68,3 +68,4 @@ You can check my HackerRank status — my username is `U4AID24027`.
 
 
 ✨ That’s how I solved 2/5 questions in the HackerRank contest!
+
