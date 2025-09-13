@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "username": "vaibhav",
+            "score": 10,
+            "high_score": 30,
+            "difficulty": "easy"
+        },
+        {
+            "username": "parthu",
+            "score": 50,
+            "high_score": 50,
+            "difficulty": "medium"
+        }
+    ]
+}
